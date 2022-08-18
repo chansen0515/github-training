@@ -1,0 +1,95 @@
+*{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin: auto;
+}
+
+a:link {
+    color:#f4c095;
+}
+
+a:visited {
+    color:white;
+}
+
+body{
+    background-color: #679289;
+}
+
+header{
+    text-align: center;
+    background-color: #071E22;
+    border: 10px solid #1D7874;
+}
+
+.img{
+    margin-top: 20px;
+    float: left;
+    padding: 15px;
+}
+img{
+    border-radius: 50%;
+}
+
+#par{
+    color: #679289;
+    margin-bottom: 30px;
+}
+
+
+.paragraph{
+    font-style: oblique;
+}
+
+.clearfix{
+    clear: left;
+}
+
+table, th, td {
+    border: 3px solid #071E22;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+
+th, td {
+    background-color: #1D7874;
+  }
+
+.form{
+    margin-bottom: 50px;
+    border: 10px solid #071E22;
+    background-color: #1D7874;
+    padding: 30px;
+    width: 50%;
+}
+
+input{
+    height:30px;
+    width: 50%;
+}
+
+input[type=text] {
+    border: 3px solid white;
+    border-radius: 4px;
+}
+
+input[type=text]:focus {
+    background-color: lightblue;
+  }
+
+input[type=password] {
+    border: 3px solid white;
+    border-radius: 4px;
+}
+
+input[type=password]:focus {
+    background-color: lightblue;
+  }
+
+footer {
+    background-color: #071E22;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  
