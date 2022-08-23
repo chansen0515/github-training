@@ -1,0 +1,23 @@
+{
+  "name": "github-training",
+  "version": "1.0.0",
+  "description": "98 labs git commands exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chansen0515/github-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chansen0515/github-training/issues"
+  },
+  "homepage": "https://github.com/chansen0515/github-training#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
