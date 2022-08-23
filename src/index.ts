@@ -1,4 +1,4 @@
-let names:string = "dendi";
+let names:string = "dend";
 
 console.log(names)
 
