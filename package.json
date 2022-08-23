@@ -16,7 +16,9 @@
     "url": "https://github.com/chansen0515/github-training/issues"
   },
   "homepage": "https://github.com/chansen0515/github-training#readme",
-  "dependencies": {},
+  "dependencies": {
+    "tsc-init": "^2.1.0"
+  },
   "devDependencies": {
     "typescript": "^4.7.4"
   }
