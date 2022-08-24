@@ -1,5 +1,6 @@
 "use strict";
-let names = "Chuvash Pro Dota 2 no tournament won so far";
+let names = "Chuvash Pro Dota 2 player and he won 5 TIs";
+let age = 34;
 console.log(names);
 const firstName = "David Jones";
 console.log("firstName");
