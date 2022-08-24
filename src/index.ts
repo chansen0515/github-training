@@ -1,4 +1,4 @@
-let names:string = "dend";
+let names:string = "Chuvash Pro";
 
 console.log(names)
 
