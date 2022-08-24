@@ -1,4 +1,4 @@
-let names:string = "Chuvash Pro Dota 2 no tournament won so far";
+let names:string = "Chuvash Pro Dota 2 player and he won 5 TIs";
 
 console.log(names)
 
