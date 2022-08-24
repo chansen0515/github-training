@@ -4,8 +4,8 @@ let age = 34;
 console.log(names);
 const firstName = "David Jones";
 console.log("firstName");
-console.log("blahblah", 'Blahhhhh');
+console.log("blahblah", "Blahhhhh");
 let info = {
-    age: 20,
-    address: 'manila',
+  age: 20,
+  address: "manila",
 };
