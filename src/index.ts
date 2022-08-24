@@ -1,4 +1,4 @@
-let names:string = "Chuvash Pro";
+let names:string = "Chuvash Pro Dota 2";
 
 console.log(names)
 
