@@ -1,5 +1,6 @@
 let names:string = "Chuvash Pro Dota 2";
 
+
 console.log(names)
 
 const firstName:string = "David Jones";
