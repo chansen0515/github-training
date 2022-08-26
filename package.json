@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chansen0515/github-training#readme",
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "tsc-init": "^2.1.0"
   },
   "devDependencies": {
